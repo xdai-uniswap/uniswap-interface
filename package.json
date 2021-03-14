@@ -3,8 +3,9 @@
   "description": "Uniswap Interface",
   "homepage": ".",
   "private": true,
-  "devDependencies": {
+  "dependencies": {
     "@ethersproject/experimental": "^5.0.1",
+    "honeyswap-default-token-list": "^1.3.1",
     "@popperjs/core": "^2.4.4",
     "@reach/dialog": "^0.10.3",
     "@reach/portal": "^0.10.3",
@@ -25,7 +26,6 @@
     "@types/testing-library__cypress": "^5.0.5",
     "@typescript-eslint/eslint-plugin": "^2.31.0",
     "@typescript-eslint/parser": "^2.31.0",
-    "@uniswap/default-token-list": "^1.3.1",
     "oethswap-v2-sdk-xdai": "3.0.7",
     "@uniswap/token-lists": "^1.0.0-beta.16",
     "@uniswap/v2-core": "1.0.0",
